@@ -1,0 +1,85 @@
+html,body{height: 100%;}
+body{
+	font-family: 'Montserrat', sans-serif;  color: #000;
+}
+h1,h2,h3,h4,h5,h6{font-family: 'Montserrat', sans-serif;  color: #000; font-weight: 700; margin: 0; padding: 0;}
+
+.main{height: 100%;}
+
+
+.btn{
+	    font-family: 'Montserrat', sans-serif; font-weight: 500;
+}
+.btn-primary{
+	background-color: #4384b4;
+    border-color: #4384b4;
+}
+.btn-primary:hover {
+    background-color: #30709d;
+    border-color: #30709d;
+}
+
+.btn-success {
+    background-color: #5c9a3f;
+    border-color: #5c9a3f;
+    font-size: 16px;
+    padding: 12px 30px;
+}
+.btn-secondary {
+    background-color: #c6c6c6;
+    border-color: #c6c6c6;
+     font-size: 16px;
+     padding: 5px 40px;
+}
+
+.ttl01{
+	font-size: 24px;
+}
+
+
+
+/*Search Page*/
+.search{
+	background:url(../images/bg01.png) no-repeat center 30px; 
+	display: flex;
+	align-items: center;
+	padding-top: 40px;
+    padding-bottom: 40px;
+}
+.search .labelwarranty{font-size: 17px; color: #000; font-weight: 700;}
+.search .container{max-width: 500px;}
+.search .form-control{font-size: 16px; height:55px; color: #000;}
+
+
+/*Warranty Page*/
+.warranty{
+	background:url(../images/bg02.jpg) no-repeat center bottom; 
+	padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.item-name{font-size: 20px;}
+
+.info-box{
+	margin-bottom: 10px;
+    width: 100%;
+    float: left;
+}
+.info-box h4{font-size: 15px; margin-bottom: 10px;}
+.info-box p{font-size: 13px;}
+
+
+@media (max-width: 767px){
+	.header{text-align: center;}
+	.header .text-left{text-align: center !important;}
+	.header .text-right{text-align: center !important;}
+}
+
+.languageselect
+{
+  margin-right: 20px;;  
+    float:right;
+}
+
+
+

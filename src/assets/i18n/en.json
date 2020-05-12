@@ -1,0 +1,22 @@
+{
+	"search": {
+		"header": "Insert item code to print warranty",
+		"buttontext": "Find",
+		"validation": "Please enter item code.",
+		"placeholder":"Insert item code."
+	},
+	"result": {
+		"header": "Print warranty card",
+		"weguarantee": "We guarantee that",
+		"weightgr": "Weight gr",
+		"Feature1": "Features stone 1",
+		"Feature2": "Features stone 2",
+		"Feature3": "Features stone 3",
+		"Feature4": "Features stone 4",
+		"certificate": "Certificate",
+		"purchasedate": "Purchase date",
+		"itemnumber": "Item number",
+		"print": "Print",
+		"btnback" : "Find"
+	}
+}

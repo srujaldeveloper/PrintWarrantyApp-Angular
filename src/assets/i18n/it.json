@@ -1,0 +1,22 @@
+{
+	"search": {
+		"header": "Inserire il codice articolo per stampare la garanzia",
+		"buttontext": "Cerca",
+		"validation": "Inserisci il codice articolo.",
+		"placeholder":"Inserisci il codice articolo"
+	},
+	"result": {
+		"header": "Stampa garanzia articolo",
+		"weguarantee": "Vi garantiamo che",
+		"weightgr": "Peso in gr.",
+		"Feature1": "Caratteristiche Pietra 1",
+		"Feature2": "Caratteristiche Pietra 2",
+		"Feature3": "Caratteristiche Pietra 3",
+		"Feature4": "Caratteristiche Pietra 4",
+		"certificate": "Certificato",
+		"purchasedate": "Data di acquisto",
+		"itemnumber": "Codice articolo",
+		"print": "Stampa",
+		"btnback" : "Cerca Articolo"
+	}
+}
